@@ -1,6 +1,12 @@
 # Sistema de Gestión Documental
 
-Sistema moderno de gestión documental desarrollado con React, TypeScript y Material-UI. Esta aplicación fue desarrollada como parte de una prueba técnica, cumpliendo con todos los requisitos especificados.
+Sistema moderno de gestión documental desarrollado con React, TypeScript y Material-UI. Esta aplicación fue desarrollada como parte de una prueba técnica, cumpliendo con todos los requisitos especificados. 😁
+
+## 📸 Diseño de Referencia
+
+![Diseño de Referencia](./src/img/prueba_tecnica.jfif)
+
+_Imagen de referencia utilizada para el desarrollo de la interfaz_
 
 ## 📋 Requisitos Cumplidos
 
@@ -76,11 +82,11 @@ Sistema de filtros para búsqueda avanzada.
 
 ```typescript
 const useDocuments = () => {
-  // Gestión de documentos
-  const addDocument = (doc: DocumentData) => { ... }
-  const updateDocument = (doc: Document) => { ... }
-  const deleteDocument = (id: string) => { ... }
-  const filteredDocuments = (filters: FilterOptions) => { ... }
+// Gestión de documentos
+const addDocument = (doc: DocumentData) => { ... }
+const updateDocument = (doc: Document) => { ... }
+const deleteDocument = (id: string) => { ... }
+const filteredDocuments = (filters: FilterOptions) => { ... }
 }
 ```
 
