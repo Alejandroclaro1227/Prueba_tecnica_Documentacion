@@ -270,8 +270,8 @@ gestion-documental/
 
 ## 👥 Autor
 
-- **Alejandro** - _Desarrollo completo_ - [GitHub](https://github.com/tu-usuario)
+- **Alejandro** - _Desarrollo completo_ - [GitHub](https://github.com/Alejandroclaro1227)
 
 ---
 
-⌨️ con ❤️ por [Alejandro](https://github.com/tu-usuario)
+⌨️ con ❤️ por Kevin Alejandro Claro Corrales 
