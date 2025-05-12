@@ -2,11 +2,26 @@
 
 Sistema moderno de gestión documental desarrollado con React, TypeScript y Material-UI. Esta aplicación fue desarrollada como parte de una prueba técnica, cumpliendo con todos los requisitos especificados. 😁
 
-## 📸 Diseño de Referencia
+## 📸 Diseño e Implementación
+
+### Diseño de Referencia
 
 ![Diseño de Referencia](./src/img/prueba_tecnica.jfif)
+_Imagen del diseño proporcionado como referencia para el desarrollo_
 
-_Imagen de referencia utilizada para el desarrollo de la interfaz_
+### Resultado Implementado
+
+![Implementación Final](./src/img/prueba12.jfif)
+_Captura de la implementación final del formulario_
+
+### Comparativa de Características ✨
+
+- Diseño moderno y limpio
+- Campos de formulario optimizados
+- Efectos visuales mejorados
+- Interfaz responsiva
+- Validaciones en tiempo real
+- Feedback visual inmediato
 
 ## 📋 Requisitos Cumplidos
 
